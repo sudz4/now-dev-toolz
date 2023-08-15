@@ -1,3 +1,8 @@
+# virtual environment
 ndt_venv/
 
+# secret stuff
 .env 
+
+# agile story load CICD data dev
+agile2.0_data/ 
